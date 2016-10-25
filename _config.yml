@@ -7,7 +7,7 @@ baseurl: '/online-cv' #change it according to your repository name
 # Enable one of these styles by removing #
 #style: styles-2
 #style: styles-3
-#style: styles-4
+style: styles-4
 #style: styles-5
 #style: styles-6
 
@@ -15,15 +15,15 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Saravanan S
+tagline: Front-end Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: alan.doe@website.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: alandoe
-twitter: '@twittername'
+email: saravanan12153@gmail.com
+phone: 8056273051
+website: saravanan121533.github.io/my_portfolio
+linkedin: saravanan12153
+github: saravanan121533
+twitter: '@saravanan12153
 
